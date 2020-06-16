@@ -22,6 +22,6 @@ public class ChessMatch {
 	}
 	
 	private void initialSetup() {
-
+		
 	}
 }
